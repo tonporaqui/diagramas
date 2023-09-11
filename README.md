@@ -2,7 +2,8 @@
 
 Bienvenido al repositorio de "Diagramas", donde encontrarás una colección de diagramas de infraestructura diseñados para distintos tipos de aplicaciones. Estos diagramas han sido creados utilizando [Excalidraw](https://excalidraw.com/), una herramienta de dibujo en línea que es sencilla y colaborativa.
 
-![Excalidraw Logo](https://excalidraw.com/favicon.ico | width=100) ![VSCode Logo](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg | width=100)
+<img src="https://excalidraw.com/favicon.ico" alt="Excalidraw Logo" width="100"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode Logo" width="100"/>
+
 
 ## 🎨 Herramientas Utilizadas
 
